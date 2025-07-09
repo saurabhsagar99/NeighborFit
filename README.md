@@ -48,7 +48,7 @@ Every year, millions of people move to new neighborhoods, but **40% report signi
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/saurabhsagar99/NeighborFit.git
-cd neighborfit-phagwara
+cd neighborfit
 ```
 
 ### 2. **Install Dependencies**
